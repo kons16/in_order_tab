@@ -1,14 +1,12 @@
 # In Order Tab
 
-<B>In Order Tab</B> は適当に開かれた複数のタブを ABC Order に並び替える chrome 拡張機能です.  
-ただし、Youtube のリンクはタブの先頭にくるようになっています.  
+<B>In Order Tab</B> は適当に開かれた複数のタブを ABC Order に並び替える chrome 拡張機能です。  
+ただし、youtube のタブは先頭に来ます。
 
 <br>
 
 before  
 <img width="1439" alt="スクリーンショット 2021-03-12 20 53 24" src="https://user-images.githubusercontent.com/31591102/110937133-4b241400-8375-11eb-8129-a0591f38f85d.png">
-
-<br>
 
 この状態で、右クリック → In Order Tab をクリック  
 
