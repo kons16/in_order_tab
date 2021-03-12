@@ -1,6 +1,9 @@
 chrome.contextMenus.create({title: "In Order Tab", onclick: inOrderTab}, function(){
 });
 
+chrome.browserAction.onClicked.addListener(function(){
+  inOrderTab();
+});
 
 function inOrderTab() {
   chrome.tabs.query({}, tabs => {
